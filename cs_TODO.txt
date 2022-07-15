@@ -4,3 +4,7 @@ https://leetcode.com/problemset/all/?sorting=W3t9XQ%3D%3D&difficulty=MEDIUM&page
 problems
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/ done
+
+https://leetcode.com/problems/reverse-integer/
+
+https://leetcode.com/problems/longest-palindromic-substring/
