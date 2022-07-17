@@ -15,4 +15,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 
 done
 https://leetcode.com/problems/two-sum/submissions/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/
+https://leetcode.com/problems/contains-duplicate/submissions/
+
 
