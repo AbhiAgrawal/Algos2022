@@ -8,3 +8,11 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/ do
 https://leetcode.com/problems/reverse-integer/
 
 https://leetcode.com/problems/longest-palindromic-substring/
+
+
+leetcode problems
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questionsInbox
+
+done
+https://leetcode.com/problems/two-sum/submissions/
+
