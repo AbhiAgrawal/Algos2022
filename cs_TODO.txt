@@ -14,11 +14,12 @@ leetcode problems
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questionsInbox
 
 todo
-https://leetcode.com/problems/product-of-array-except-self/
+
 
 done
 https://leetcode.com/problems/two-sum/submissions/
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/
 https://leetcode.com/problems/contains-duplicate/submissions/
+https://leetcode.com/problems/product-of-array-except-self/submissions/
 
 
