@@ -16,7 +16,6 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 todo
 https://leetcode.com/problems/maximum-subarray/solution/ using divide and conquer method
 https://leetcode.com/problems/search-in-rotated-sorted-array/
-https://leetcode.com/problems/maximum-product-subarray/
 
 revise again
 https://leetcode.com/problems/maximum-product-subarray/submissions/
