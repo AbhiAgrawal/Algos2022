@@ -18,6 +18,9 @@ https://leetcode.com/problems/maximum-subarray/solution/ using divide and conque
 https://leetcode.com/problems/search-in-rotated-sorted-array/
 https://leetcode.com/problems/maximum-product-subarray/
 
+revise again
+https://leetcode.com/problems/maximum-product-subarray/submissions/
+
 
 done
 https://leetcode.com/problems/two-sum/submissions/
@@ -25,5 +28,6 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/
 https://leetcode.com/problems/contains-duplicate/submissions/
 https://leetcode.com/problems/product-of-array-except-self/submissions/
 https://leetcode.com/problems/maximum-subarray/solution/ using kadane algo
+https://leetcode.com/problems/maximum-product-subarray/submissions/
 
 
