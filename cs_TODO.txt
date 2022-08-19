@@ -17,6 +17,7 @@ todo
 https://leetcode.com/problems/maximum-subarray/solution/ using divide and conquer method
 https://leetcode.com/problems/search-in-rotated-sorted-array/
 https://leetcode.com/problems/linked-list-cycle/solution/ look at https://leetcode.com/problems/linked-list-cycle/solution/ solution in more detail
+https://leetcode.com/problems/merge-k-sorted-lists/solution/ go through all the other solutions
 linked list
 string
 tree
