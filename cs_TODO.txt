@@ -34,5 +34,6 @@ https://leetcode.com/problems/contains-duplicate/submissions/
 https://leetcode.com/problems/product-of-array-except-self/submissions/
 https://leetcode.com/problems/maximum-subarray/solution/ using kadane algo
 https://leetcode.com/problems/maximum-product-subarray/submissions/
+https://leetcode.com/problems/reverse-linked-list/submissions/
 
 
