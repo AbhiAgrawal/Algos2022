@@ -20,11 +20,9 @@ https://leetcode.com/problems/linked-list-cycle/solution/ look at https://leetco
 https://leetcode.com/problems/merge-k-sorted-lists/solution/ go through all the other solutions
 https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/submissions/ time limit exceeded, try again
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/ read solution again
-linked list
-string
-tree
-graph
 
+https://leetcode.com/problems/set-matrix-zeroes/ optimize for space and time
+https://leetcode.com/problems/reorder-list/ do again
 
 
 revise again
@@ -42,4 +40,4 @@ https://leetcode.com/problems/reverse-linked-list/submissions/
 https://leetcode.com/problems/linked-list-cycle/solution/
 https://leetcode.com/problems/merge-two-sorted-lists/
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
-
+https://leetcode.com/problems/set-matrix-zeroes/
