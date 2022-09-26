@@ -25,9 +25,12 @@ https://leetcode.com/problems/set-matrix-zeroes/ optimize for space and time
 https://leetcode.com/problems/reorder-list/ do again
 https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/ time limit exceeded
 https://leetcode.com/problems/implement-trie-prefix-tree/submissions/ time limit exceeded
+
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ TODO
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ TODO
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ TODO
 
+Do all matrix secion problems again
 
 revise again
 https://leetcode.com/problems/maximum-product-subarray/submissions/
