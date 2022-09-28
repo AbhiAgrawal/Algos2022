@@ -29,6 +29,10 @@ https://leetcode.com/problems/implement-trie-prefix-tree/submissions/ time limit
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ TODO
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ TODO
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ TODO
+https://leetcode.com/problems/longest-palindromic-substring/ TODO
+https://leetcode.com/problems/palindromic-substrings/
+
+
 
 Do all matrix secion problems again
 
